@@ -8,6 +8,6 @@ All scripts should be located in the scripts folder.
 
 The KalmanFilter calculations are performed in the KalmanFilter script.
 
-The main script handles updating the Kalman filter and reteriving the filtered velocity values. 
+The main script handles updating the Kalman filter and retrieving the filtered velocity values. 
 
 
